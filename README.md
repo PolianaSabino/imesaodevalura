@@ -1,2 +1,2 @@
-# Imersão Dev Alura
-Aqui estão armazenados todos os projetos que realizei do curso Imersão Dev Alura. Abril/2021
+# Conversor de moedas - Imersão Dev Alura
+Conversor de moedas em euro.
